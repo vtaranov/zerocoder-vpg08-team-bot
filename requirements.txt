@@ -1,0 +1,5 @@
+haystack-ai==2.31.1
+pinecone-haystack==5.5.0
+openai==2.54.0
+pyTelegramBotAPI==4.37.1
+python-dotenv==1.2.4

@@ -1,0 +1,25 @@
+{
+  "checked_on": "2026-11-09",
+  "method": "Telegram Desktop UI with bot polling, real OpenAI and Pinecone",
+  "human_accounts": 1,
+  "additional_authors_tested": "Two fictional authors tested through CLI/service separately",
+  "checks": {
+    "passive_capture": true,
+    "mention_context_answer": true,
+    "session_summary": true,
+    "memory_after_process_restart": true,
+    "unknown_address_not_invented": true,
+    "journal_messages": 3,
+    "pending_indexing": 0,
+    "session_active": false
+  },
+  "admin_privileges_verified": {
+    "delete_messages": false,
+    "restrict_members": false,
+    "invite_users": false,
+    "manage_video_chats": false,
+    "promote_members": false
+  },
+  "screenshots": "Stored with the local homework report; not published.",
+  "final_state": "Temporary polling process stopped; test group and its memory retained."
+}
